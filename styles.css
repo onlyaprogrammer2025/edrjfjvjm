@@ -115,7 +115,7 @@ a{
 @media screen and (max-width: 768px) {
     body {
         position: relative;
-        background: url('handshaking.jpg') no-repeat center center/cover;
+        background: url('hand.jpg') no-repeat center center/cover;
         height: 100vh;
         margin: 0;
         overflow-x: hidden;
