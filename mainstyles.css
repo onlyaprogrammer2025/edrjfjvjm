@@ -783,7 +783,7 @@ button {
     background-color: rgb(46, 44, 44);
     border-radius: 30px;
     margin-top: 20px;
-    margin-left: 45px;
+    margin-left: 35px;
     z-index: 2;
 }
 #hotel2{
@@ -813,8 +813,8 @@ button {
     height: 450px;
     background-color: rgb(46, 44, 44);
     border-radius: 30px;
-    margin-top: 1300px;
-    margin-left: 45px;
+    margin-top: 1500px;
+    margin-left: 35px;
     z-index: 2;
 }
 #hotel5{
@@ -823,8 +823,8 @@ button {
     height: 450px;
     background-color: rgb(46, 44, 44);
     border-radius: 30px;
-    margin-top: 1780px;
-    margin-left: 45px;
+    margin-top: 1980px;
+    margin-left: 35px;
     z-index: 2;
 }
 #hotel6{
@@ -833,8 +833,8 @@ button {
     height: 400px;
     background-color: rgb(46, 44, 44);
     border-radius: 30px;
-    margin-top: 2200px;
-    margin-left: 45px;
+    margin-top: 2400px;
+    margin-left: 35px;
     z-index: 2;
 }
 #hotels{
