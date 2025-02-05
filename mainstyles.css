@@ -536,7 +536,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 150px;
-    margin-left: 45px;
+    margin-left: 95px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
