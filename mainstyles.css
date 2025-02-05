@@ -793,7 +793,7 @@ button {
     background-color: rgb(46, 44, 44);
     border-radius: 30px;
     margin-top: 500px;
-    margin-left: 45px;
+    margin-left: 35px;
     z-index: 2;
 }
 #hotel3{
@@ -802,8 +802,8 @@ button {
     height: 450px;
     background-color: rgb(46, 44, 44);
     border-radius: 30px;
-    margin-top: 780px;
-    margin-left: 450px;
+    margin-top: 980px;
+    margin-left: 35px;
     z-index: 2;
 }
 
