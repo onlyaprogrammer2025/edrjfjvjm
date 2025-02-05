@@ -513,7 +513,7 @@ button {
     color: white;
     outline: none;
     font-size: 25px;
-    margin-left: 140px;
+    margin-left: 45px;
     margin-top: 70px;
 }
 #searchbtn{
@@ -521,7 +521,7 @@ button {
     width: 28px;
     height: 28px;
     margin-top: 80px;
-    margin-left: 305px;
+    margin-left: 210px;
     cursor: pointer;
     transition: transform 0.3s ease-in-out;
 }
@@ -536,7 +536,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 150px;
-    margin-left: 170px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -547,7 +547,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 170px;
-    margin-left: 170px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -558,7 +558,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 190px;
-    margin-left: 190px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -569,7 +569,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 210px;
-    margin-left: 170px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -580,7 +580,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 230px;
-    margin-left: 200px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -591,7 +591,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 250px;
-    margin-left: 180px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -602,7 +602,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 270px;
-    margin-left: 220px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -613,7 +613,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 290px;
-    margin-left: 235px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -624,7 +624,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 310px;
-    margin-left: 190px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -635,7 +635,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 330px;
-    margin-left: 193px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -646,7 +646,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 350px;
-    margin-left: 179px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -657,7 +657,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 350px;
-    margin-left: 178px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -668,7 +668,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 370px;
-    margin-left: 193px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -679,7 +679,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 390px;
-    margin-left: 215px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -690,7 +690,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 410px;
-    margin-left: 212px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -701,7 +701,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 430px;
-    margin-left: 212px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -712,7 +712,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 450px;
-    margin-left: 190px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -723,7 +723,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 470px;
-    margin-left: 222px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -734,7 +734,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 490px;
-    margin-left: 229px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
@@ -745,7 +745,7 @@ button {
     font-weight: bolder;
     color: rgba(255, 255, 255, 0.692);
     margin-top: 510px;
-    margin-left: 232px;
+    margin-left: 45px;
     transition: transform 0.3s ease-in-out;
     cursor: pointer;
 }
